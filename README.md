@@ -1,3 +1,3 @@
 # Sample2
 
-Created Localy.
+this was created Localy.
